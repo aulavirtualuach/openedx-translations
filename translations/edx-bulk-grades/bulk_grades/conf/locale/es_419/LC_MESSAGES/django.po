@@ -2,24 +2,27 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 # Translators:
 # Nathan Robertson, 2024
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-09 00:36+0000\n"
-"PO-Revision-Date: 2023-05-10 00:48+0000\n"
-"Last-Translator: Nathan Robertson, 2024\n"
-"Language-Team: Spanish (Latin America) (https://app.transifex.com/open-edx/teams/6205/es_419/)\n"
+"PO-Revision-Date: 2026-04-14 11:19-0400\n"
+"Last-Translator: LM, 2026\n"
+"Language-Team: Spanish (Latin America) (https://app.transifex.com/open-edx/"
+"teams/6205/es_419/)\n"
+"Language: es_419\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es_419\n"
-"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? "
+"1 : 2;\n"
+"X-Generator: Poedit 3.9\n"
 
 #: api.py:125
 msgid ""
@@ -38,7 +41,7 @@ msgstr "Los puntos no deben ser mayores que {}."
 
 #: api.py:134
 msgid "Points must be greater than 0"
-msgstr "Los puntos deben ser mayores que 0."
+msgstr "Los puntos deben ser mayores que 0"
 
 #: api.py:347
 msgid "Wrong course id {} != {}"
@@ -50,11 +53,11 @@ msgstr "ID de usuario repetido: "
 
 #: api.py:385
 msgid "Grade must be a number"
-msgstr "La calificación debe ser un número."
+msgstr "La calificación debe ser un número"
 
 #: api.py:388
 msgid "Grade must not be negative"
-msgstr "La calificación no debe ser negativa."
+msgstr "La calificación no debe ser negativa"
 
 #: api.py:642
 msgid "score must be positive"

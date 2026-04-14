@@ -2794,7 +2794,7 @@
   "authoring.live.consumerKey.required": "Consumer key es un campo obligatorio",
   "authoring.live.consumerSecret": "Secreto del consumidor",
   "authoring.live.consumerSecret.required": "Consumer secret es un campo obligatorio",
-  "authoring.live.launchUrl": "",
+  "authoring.live.launchUrl": "URL de lanzamiento",
   "authoring.live.launchUrl.required": "La URL de activación es un campo obligatorio",
   "authoring.live.launchEmail": "Correo electrónico de lanzamiento",
   "authoring.live.launchEmail.required": "El correo electrónico de lanzamiento es un campo obligatorio",

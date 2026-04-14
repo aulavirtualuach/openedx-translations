@@ -3,25 +3,28 @@
 # Copyright (C) 2018 edX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 # EdX Team <info@edx.org>, 2018.
-# 
+#
 # Translators:
 # Brian Smith, 2024
 # edx_transifex_bot <i18n-working-group+edx-transifex-bot@edx.org>, 2024
 # Valentina Morelli, 2024
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: edx-ora2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-09 00:41+0000\n"
-"PO-Revision-Date: 2023-05-10 00:48+0000\n"
-"Last-Translator: Valentina Morelli, 2024\n"
-"Language-Team: Spanish (Latin America) (https://app.transifex.com/open-edx/teams/6205/es_419/)\n"
+"PO-Revision-Date: 2026-04-14 12:21-0400\n"
+"Last-Translator: LM, 2026\n"
+"Language-Team: Spanish (Latin America) (https://app.transifex.com/open-edx/"
+"teams/6205/es_419/)\n"
+"Language: es_419\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es_419\n"
-"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? "
+"1 : 2;\n"
+"X-Generator: Poedit 3.9\n"
 
 #: xblock/static/dist/openassessment-lms.51b88d7de00c69ab0a2e.js:8
 #: xblock/static/dist/openassessment-studio.65076e7e76039d8c8ab2.js:1
@@ -113,7 +116,7 @@ msgstr "No se pudo recuperar la url de descarga."
 #: xblock/static/dist/openassessment-studio.65076e7e76039d8c8ab2.js:1
 #: xblock/static/js/src/oa_server.js:640
 msgid "The submission could not be removed from the grading pool."
-msgstr "La entrega no pudo ser eliminada de la lista de evaluaciones"
+msgstr "La entrega no pudo ser eliminada de la lista de evaluaciones."
 
 #: xblock/static/dist/openassessment-lms.51b88d7de00c69ab0a2e.js:8
 #: xblock/static/dist/openassessment-studio.65076e7e76039d8c8ab2.js:1
@@ -289,7 +292,7 @@ msgstr "Proporcione una descripción para cada archivo que está cargando."
 #: xblock/static/dist/openassessment-lms.51b88d7de00c69ab0a2e.js:362
 #: xblock/static/js/src/lms/oa_response.js:352
 msgid "Your file has been deleted or path has been changed: "
-msgstr "Su archivo ha sido eliminado o la ruta ha sido cambiada:"
+msgstr "Su archivo ha sido eliminado o la ruta ha sido cambiada: "
 
 #: xblock/static/dist/openassessment-lms.51b88d7de00c69ab0a2e.js:362
 #: xblock/static/js/src/lms/oa_response.js:447
@@ -332,9 +335,9 @@ msgid ""
 "this response, you may have a limited time to resubmit before your "
 "submission is graded."
 msgstr ""
-"Estás a punto de enviar tu respuesta para esta tarea. Después de enviar esta"
-" respuesta, es posible que tenga un tiempo limitado para volver a enviarla "
-"antes de que se califique su envío."
+"Estás a punto de enviar tu respuesta para esta tarea. Después de enviar "
+"esta respuesta, es posible que tenga un tiempo limitado para volver a "
+"enviarla antes de que se califique su envío."
 
 #: xblock/static/dist/openassessment-lms.51b88d7de00c69ab0a2e.js:362
 #: xblock/static/js/src/lms/oa_response.js:529
@@ -357,8 +360,8 @@ msgid ""
 "submit a new response in order to complete this step. Are you sure you want "
 "to continue?"
 msgstr ""
-"Estás a punto de restablecer tu respuesta para esta tarea. Deberá enviar una"
-" nueva respuesta para completar este paso. ¿Estás seguro de que quieres "
+"Estás a punto de restablecer tu respuesta para esta tarea. Deberá enviar "
+"una nueva respuesta para completar este paso. ¿Estás seguro de que quieres "
 "continuar?"
 
 #: xblock/static/dist/openassessment-lms.51b88d7de00c69ab0a2e.js:362
@@ -370,23 +373,23 @@ msgstr ""
 #: xblock/static/dist/openassessment-lms.51b88d7de00c69ab0a2e.js:362
 #: xblock/static/js/src/lms/oa_response.js:658
 msgid ""
-"File upload failed: unsupported file type. Only the supported file types can"
-" be uploaded. If you have questions, please reach out to the course team."
+"File upload failed: unsupported file type. Only the supported file types "
+"can be uploaded. If you have questions, please reach out to the course team."
 msgstr ""
 "Carga de archivo fallida: tipo de archivo no soportado. Solo los tipos de "
-"archivos soportados podrán ser cargados. Si presentas dudas, por favor ponte"
-" en contacto con el equipo del curso encargado. "
+"archivos soportados podrán ser cargados. Si presentas dudas, por favor "
+"ponte en contacto con el equipo del curso encargado."
 
 #: xblock/static/dist/openassessment-lms.51b88d7de00c69ab0a2e.js:362
 #: xblock/static/js/src/lms/oa_response.js:669
 msgid "The maximum number files that can be saved is "
-msgstr "El número máximo de archivos que se pueden guardar es"
+msgstr "El número máximo de archivos que se pueden guardar es "
 
 #: xblock/static/dist/openassessment-lms.51b88d7de00c69ab0a2e.js:362
 #: xblock/static/js/src/lms/oa_response.js:737
 #: xblock/static/js/src/lms/oa_response.js:743
 msgid "Describe "
-msgstr "Describir"
+msgstr "Describir "
 
 #: xblock/static/dist/openassessment-lms.51b88d7de00c69ab0a2e.js:362
 #: xblock/static/js/src/lms/oa_response.js:737
@@ -396,12 +399,12 @@ msgstr "(requerido):"
 #: xblock/static/dist/openassessment-lms.51b88d7de00c69ab0a2e.js:362
 #: xblock/static/js/src/lms/oa_response.js:757
 msgid "Thumbnail view of "
-msgstr "Vista miniatura de"
+msgstr "Vista miniatura de "
 
 #: xblock/static/dist/openassessment-lms.51b88d7de00c69ab0a2e.js:362
 #: xblock/static/js/src/lms/oa_response.js:834
 msgid "Confirm Delete Uploaded File"
-msgstr "Confirmar Eliminar Archivos Subidos "
+msgstr "Confirmar Eliminar Archivos Subidos"
 
 #: xblock/static/dist/openassessment-lms.51b88d7de00c69ab0a2e.js:362
 #: xblock/static/js/src/lms/oa_response.js:859
@@ -409,8 +412,9 @@ msgid ""
 "Are you sure you want to delete the following file? It cannot be restored.\n"
 "File: "
 msgstr ""
-"¿Estás seguro de que desea eliminar el siguiente archivo? No puede ser restaurado.\n"
-"Archivo:"
+"¿Estás seguro de que desea eliminar el siguiente archivo? No puede ser "
+"restaurado.\n"
+"Archivo: "
 
 #: xblock/static/dist/openassessment-lms.51b88d7de00c69ab0a2e.js:362
 #: xblock/static/js/src/lms/oa_self.js:138
@@ -444,12 +448,12 @@ msgstr ""
 #: xblock/static/dist/openassessment-lms.51b88d7de00c69ab0a2e.js:362
 #: xblock/static/js/src/lms/oa_staff_area.js:218
 msgid "Confirm Grade Team Submission"
-msgstr "Confirmar el envío de la calificación de equipo."
+msgstr "Confirmar el envío de la calificación de equipo"
 
 #: xblock/static/dist/openassessment-lms.51b88d7de00c69ab0a2e.js:362
 #: xblock/static/js/src/lms/oa_staff_area.js:304
 msgid "Error getting the number of ungraded responses"
-msgstr "Error al obtener el número de respuestas no calificadas."
+msgstr "Error al obtener el número de respuestas no calificadas"
 
 #: xblock/static/dist/openassessment-lms.51b88d7de00c69ab0a2e.js:362
 #: xblock/static/js/src/lms/oa_staff_area.js:538
@@ -492,11 +496,11 @@ msgstr "Nombre de usuario"
 
 #: xblock/static/dist/openassessment-lms.51b88d7de00c69ab0a2e.js:362
 msgid "Peers Assessed"
-msgstr "Parejas evaluadas."
+msgstr "Parejas evaluadas"
 
 #: xblock/static/dist/openassessment-lms.51b88d7de00c69ab0a2e.js:362
 msgid "Peer Responses Received"
-msgstr "Respuestas de parejas recibidas."
+msgstr "Respuestas de parejas recibidas"
 
 #: xblock/static/dist/openassessment-lms.51b88d7de00c69ab0a2e.js:362
 msgid "Time Spent On Current Step"
@@ -529,11 +533,11 @@ msgstr ""
 
 #: xblock/static/dist/openassessment-lms.51b88d7de00c69ab0a2e.js:362
 msgid ""
-"However, {overwritten_count} of these students have received a grade through"
-" the staff grade override tool already."
+"However, {overwritten_count} of these students have received a grade "
+"through the staff grade override tool already."
 msgstr ""
 "Sin embargo, {overwritten_count} de estos estudiantes ya han recibido una "
-"calificación a través de la herramienta de anulación de notas del personal. "
+"calificación a través de la herramienta de anulación de notas del personal."
 
 #: xblock/static/dist/openassessment-lms.51b88d7de00c69ab0a2e.js:362
 msgid "Error while fetching student data."
@@ -592,7 +596,7 @@ msgstr "Problema al duplicar la rúbrica"
 #: xblock/static/dist/openassessment-studio.65076e7e76039d8c8ab2.js:11
 #: xblock/static/js/src/studio/oa_edit_listeners.js:100
 msgid "Criterion Added"
-msgstr "Criterio añadido."
+msgstr "Criterio añadido"
 
 #: xblock/static/dist/openassessment-studio.65076e7e76039d8c8ab2.js:11
 #: xblock/static/js/src/studio/oa_edit_listeners.js:102
@@ -602,14 +606,14 @@ msgid ""
 "Steps tab."
 msgstr ""
 "Has agregado un criterio. Necesitarás seleccionar una opción de criterio en "
-"el paso de entrenamiento de estudiante. Para hacer esto, presiona clic en la"
-" pestaña de Pasos de Examen. "
+"el paso de entrenamiento de estudiante. Para hacer esto, presiona clic en "
+"la pestaña de Pasos de Examen."
 
 #: xblock/static/dist/openassessment-studio.65076e7e76039d8c8ab2.js:11
 #: xblock/static/js/src/studio/oa_edit_listeners.js:150
 #: xblock/static/js/src/studio/oa_edit_listeners.js:186
 msgid "Option Deleted"
-msgstr "Opción borrada."
+msgstr "Opción borrada"
 
 #: xblock/static/dist/openassessment-studio.65076e7e76039d8c8ab2.js:11
 #: xblock/static/js/src/studio/oa_edit_listeners.js:152
@@ -619,8 +623,8 @@ msgid ""
 "select a new option for the criterion."
 msgstr ""
 "Has borrado esta opción. Esta opción ha sido removida del criterio en el "
-"ejemplo de respuestas en el paso de entrenamiento del estudiante. Es posible"
-" que tenga que seleccionar una nueva opción para el criterio."
+"ejemplo de respuestas en el paso de entrenamiento del estudiante. Es "
+"posible que tenga que seleccionar una nueva opción para el criterio."
 
 #: xblock/static/dist/openassessment-studio.65076e7e76039d8c8ab2.js:11
 #: xblock/static/js/src/studio/oa_edit_listeners.js:188
@@ -635,7 +639,7 @@ msgstr ""
 #: xblock/static/dist/openassessment-studio.65076e7e76039d8c8ab2.js:11
 #: xblock/static/js/src/studio/oa_edit_listeners.js:214
 msgid "Criterion Deleted"
-msgstr "Criterio borrado."
+msgstr "Criterio borrado"
 
 #: xblock/static/dist/openassessment-studio.65076e7e76039d8c8ab2.js:11
 #: xblock/static/js/src/studio/oa_edit_listeners.js:216
@@ -649,13 +653,13 @@ msgstr ""
 #: xblock/static/dist/openassessment-studio.65076e7e76039d8c8ab2.js:11
 #: xblock/static/js/src/studio/oa_edit_listeners.js:394
 msgid "Warning"
-msgstr "Atención:"
+msgstr "Atención"
 
 #: xblock/static/dist/openassessment-studio.65076e7e76039d8c8ab2.js:11
 #: xblock/static/js/src/studio/oa_edit_listeners.js:395
 msgid ""
-"Changes to steps that are not selected as part of the assignment will not be"
-" saved."
+"Changes to steps that are not selected as part of the assignment will not "
+"be saved."
 msgstr ""
 "Los cambios en los pasos que no están seleccionados como parte de la tarea "
 "no serán guardados."
@@ -663,8 +667,8 @@ msgstr ""
 #: xblock/static/dist/openassessment-studio.65076e7e76039d8c8ab2.js:11
 #: xblock/static/js/src/studio/oa_edit_settings.js:104
 msgid ""
-"Time must be in the format dd:hh:mm. The days must be between 00 and 99, the"
-" hours between 00 and 23, and the minutes between 00 and 59."
+"Time must be in the format dd:hh:mm. The days must be between 00 and 99, "
+"the hours between 00 and 23, and the minutes between 00 and 59."
 msgstr ""
 "La hora debe tener el formato dd:hh:mm. Los días deben estar entre 00 y 99, "
 "las horas entre 00 y 23 y los minutos entre 00 y 59."
@@ -677,7 +681,7 @@ msgstr "Tipo de archivo no puede ser vacío."
 #: xblock/static/dist/openassessment-studio.65076e7e76039d8c8ab2.js:11
 #: xblock/static/js/src/studio/oa_edit_settings.js:128
 msgid "The following file types are not allowed: "
-msgstr "Los siguientes tipos de archivos son soportados:"
+msgstr "Los siguientes tipos de archivos son soportados: "
 
 #: xblock/static/dist/openassessment-studio.65076e7e76039d8c8ab2.js:11
 #: xblock/static/js/src/studio/oa_edit.js:183
@@ -687,18 +691,19 @@ msgstr "Guardado sin éxito"
 #: xblock/static/dist/openassessment-studio.65076e7e76039d8c8ab2.js:11
 #: xblock/static/js/src/studio/oa_edit.js:184
 msgid "Errors detected on the following tabs: "
-msgstr "Errores detectados en las siguientes pestañas:"
+msgstr "Errores detectados en las siguientes pestañas: "
 
 #: xblock/static/dist/openassessment-studio.65076e7e76039d8c8ab2.js:11
 msgid ""
-"This ORA has already been released. Changes will only affect learners making"
-" new submissions. Existing submissions will not be modified by this change."
+"This ORA has already been released. Changes will only affect learners "
+"making new submissions. Existing submissions will not be modified by this "
+"change."
 msgstr ""
 "Este ejercio de ORA ya ha sido liberado. Los cambios solo afectarán a los "
 "usuarios que hagan nuevos envíos. Los envíos ya existentes no serán "
-"modificados por este cambio. "
+"modificados por este cambio."
 
 #: xblock/static/dist/openassessment-studio.65076e7e76039d8c8ab2.js:11
 #: xblock/static/js/src/studio/oa_edit.js:321
 msgid "error count: "
-msgstr "recuento de errores:"
+msgstr "recuento de errores: "

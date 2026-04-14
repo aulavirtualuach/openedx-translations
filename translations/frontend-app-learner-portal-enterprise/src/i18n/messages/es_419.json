@@ -536,7 +536,7 @@
   "learner.portal.mark.complete.modal.body.confirmation.part1": "¿Estás seguro de que deseas guardar {courseLink} para más tarde? Seguirás inscrito, pero el curso ya no aparecerá como &quot;En progreso&quot;.",
   "learner.portal.mark.complete.modal.body.confirmation.part2": "Mientras tu licencia sea válida, puedes reanudar el curso haciendo clic en &quot;Mover curso a En progreso&quot; en tu lista de cursos guardados para más tarde.",
   "learner.portal.mark.complete.modal.error.message": "No se pudo guardar {courseLink} para más tarde. Por favor, inténtalo de nuevo.",
-  "learner.portal.move.to.in.progress.modal.body.confirmation.part1": "",
+  "learner.portal.move.to.in.progress.modal.body.confirmation.part1": "¿Está seguro de que desea mover {courseLink} a \"En curso\"? El curso aparecerá en su sección \"En curso\".",
   "learner.portal.move.to.in.progress.modal.body.confirmation.part2": "Mientras su licencia sea válida, puede reanudar el curso haciendo clic en &quot;Mover a En Progreso&quot;.",
   "learner.portal.move.to.in.progress.modal.error.message": "Un error ocurrió al desarchivar {courseLink}. Por favor, inténtalo de nuevo.",
   "learner.portal.move.to.in.progress.modal.title": "Mover curso a \"En progreso\"",
