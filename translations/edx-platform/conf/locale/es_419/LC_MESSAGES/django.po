@@ -11848,11 +11848,3 @@ msgstr "inscribirse"
 #: lms/templates/courseware/course_about.html:88
 msgid "You are enrolled in this course"
 msgstr "Ya estás inscrito en este curso"
-
-#: lms/templates/courseware/course_about.html:262
-msgid "Course is full"
-msgstr "Inscripciones cerradas"
-
-#: lms/templates/courseware/course_about.html:262
-msgid "Price"
-msgstr "Precio"
