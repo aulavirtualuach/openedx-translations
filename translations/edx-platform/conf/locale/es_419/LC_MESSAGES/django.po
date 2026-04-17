@@ -11848,3 +11848,81 @@ msgstr "inscribirse"
 #: lms/templates/courseware/course_about.html:88
 msgid "You are enrolled in this course"
 msgstr "Ya estás inscrito en este curso"
+
+#: lms/templates/courseware/course_about_sidebar_header.html:14
+#: themes/stanford-style/lms/templates/courseware/course_about_sidebar_header.html:8
+msgid "Share with friends and family!"
+msgstr "Compartir con amigos y familiares"
+
+#: lms/templates/courseware/course_about_sidebar_header.html:38
+#, python-brace-format
+msgid "I just enrolled in {number} {title} through {platform} {url}"
+msgstr "Me inscribí a {number} {title} en {platform} {url}"
+
+#: lms/templates/courseware/course_about_sidebar_header.html:45
+#, python-brace-format
+msgid "Take a course with {platform} online"
+msgstr "Toma un curso con {platform}"
+
+#: lms/templates/courseware/course_about_sidebar_header.html:52
+#: themes/stanford-style/lms/templates/courseware/course_about_sidebar_header.html:10
+msgid "Tweet that you've enrolled in this course"
+msgstr "Comparte en X que te has inscrito en este curso"
+
+#: lms/templates/courseware/course_about_sidebar_header.html:55
+msgid "Post a Facebook message to say you've enrolled in this course"
+msgstr "Comparte un mensaje en Facebook, para decir que te haz inscrito en este curso"
+
+#: lms/templates/courseware/course_about_sidebar_header.html:58
+#: themes/stanford-style/lms/templates/courseware/course_about_sidebar_header.html:13
+msgid "Email someone to say you've enrolled in this course"
+msgstr "Envía un correo a tus amigos indicando que te has registrado en este curso"
+
+#: lms/templates/courseware/courses.html:72
+#: lms/templates/courseware/courses.html:73
+msgid "Refine Your Search"
+msgstr "Refina tu búsqueda"
+
+#: lms/templates/courseware/courses.html:42
+#: lms/templates/courseware/courses.html:43 lms/templates/index.html:26
+#: lms/templates/index.html:27
+#: themes/stanford-style/lms/templates/index.html:22
+#: themes/stanford-style/lms/templates/index.html:23
+msgid "Search for a course"
+msgstr "Buscar curso"
+
+#
+msgid "Discover"
+msgstr "Descubrir"
+
+#: lms/templates/header/navbar-not-authenticated.html:53
+#: lms/templates/header/navbar-not-authenticated.html:57
+msgid "Register for free"
+msgstr "Registrarse"
+
+#: lms/templates/dashboard.html:29 lms/templates/header/user_dropdown.html:42
+#: lms/templates/header/user_dropdown.html:44
+#: lms/templates/user_dropdown.html:30 lms/templates/user_dropdown.html:38
+msgid "Dashboard"
+msgstr "Panel de Control"
+
+#: lms/templates/header/user_dropdown.html:47
+msgid "Profile"
+msgstr "Perfil"
+
+#: cms/templates/widgets/header.html:357 cms/templates/widgets/header.html:372
+#: lms/templates/header/user_dropdown.html:48
+#: lms/templates/user_dropdown.html:31 lms/templates/user_dropdown.html:39
+msgid "Account"
+msgstr "Cuenta"
+
+#: lms/templates/header/user_dropdown.html:50
+msgid "Order History"
+msgstr "Historial de órdenes"
+
+#: cms/templates/widgets/user_dropdown.html:30
+#: lms/templates/header/user_dropdown.html:52
+#: lms/templates/user_dropdown.html:32 lms/templates/user_dropdown.html:40
+#: lms/templates/user_dropdown.html:59
+msgid "Sign Out"
+msgstr "Cerrar sesión"
