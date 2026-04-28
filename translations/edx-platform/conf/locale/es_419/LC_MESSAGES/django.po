@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: 0.1a\n"
 "Report-Msgid-Bugs-To: openedx-translation@googlegroups.com\n"
 "POT-Creation-Date: 2023-06-13 08:00+0000\n"
-"PO-Revision-Date: 2026-04-28 16:01-0400\n"
+"PO-Revision-Date: 2026-04-28 17:30-0400\n"
 "Last-Translator: LM, 2026\n"
 "Language-Team: Spanish (Latin America) (https://app.transifex.com/open-edx/teams/6205/es_419/)\n"
 "Language: es_419\n"
@@ -11681,13 +11681,13 @@ msgstr ""
 
 #: instruct.courseTeam.roles.groupCommunityTA
 msgid "Group Community TA"
-msgstr "Profesor asistente de la comunidad de grupo"
+msgstr "Profesor asistente de grupo de la comunidad"
 
 #: instruct.courseTeam.roles.groupCommunityTADescription
 msgid "Group Community TAs are members of the community who help course teams moderate discussions. Group Community TAs see only posts by learners in their assigned group. They can edit or delete posts, clear flags, close and re-open threads, and endorse responses, but only for posts by learners in their group. Their posts are marked as 'Community TA'. Any users not yet enrolled in the course will be automatically enrolled when added as Group Community TA."
 msgstr ""
-"Los asistentes docentes comunitarios de grupo son miembros de la comunidad que ayudan a los equipos del curso a moderar los debates. Los asistentes docentes comunitarios de grupo solo ven las publicaciones de los estudiantes de su grupo asignado. Pueden editar o eliminar publicaciones, quitar marcas, cerrar y reabrir hilos, y respaldar respuestas, pero solo en las publicaciones de los estudiantes de su grupo. Sus publicaciones aparecen marcadas como "
-"'Asistente docente comunitario'. Los usuarios que aún no estén inscritos en el curso se inscribirán automáticamente al ser agregados como asistentes docentes comunitarios de grupo."
+"Los asistentes de grupo de la comunidad son miembros de la comunidad que ayudan a los equipos del curso a moderar los debates. Los asistentes docentes comunitarios de grupo solo ven las publicaciones de los estudiantes de su grupo asignado. Pueden editar o eliminar publicaciones, quitar marcas, cerrar y reabrir hilos, y respaldar respuestas, pero solo en las publicaciones de los estudiantes de su grupo. Sus publicaciones aparecen marcadas como 'Asistente "
+"docente comunitario'. Los usuarios que aún no estén inscritos en el curso se inscribirán automáticamente al ser agregados como asistentes docentes comunitarios de grupo."
 
 #: instruct.courseTeam.roles.limitedStaff
 msgid "Limited Staff"
@@ -12292,3 +12292,637 @@ msgstr "Buscar por nombre de usuario o correo electrónico"
 #: pageWrapper.pageTitle
 msgid "Instructor Dashboard"
 msgstr "Panel de instructor"
+
+#: lms/templates/instructor/instructor_dashboard_2/add_coupon_modal.html:45 lms/templates/instructor/instructor_dashboard_2/edit_coupon_modal.html:41
+msgid "Description"
+msgstr "Descripción"
+
+#: lms/templates/instructor/instructor_dashboard_2/certificates.html:168
+msgid "Date"
+msgstr "Fecha"
+
+#: lms/templates/instructor/instructor_dashboard_2/course_info.html:93
+msgid "Organization:"
+msgstr "Organización:"
+
+#: lms/templates/instructor/instructor_dashboard_2/course_info.html:88
+msgid "Course Run:"
+msgstr "Edición del curso:"
+
+#: lms/templates/instructor/instructor_dashboard_2/course_info.html:88
+msgid "Course Number:"
+msgstr "Número de curso:"
+
+#: lms/templates/instructor/instructor_dashboard_2/add_coupon_modal.html:30 lms/templates/instructor/instructor_dashboard_2/edit_coupon_modal.html:26 lms/templates/instructor/instructor_dashboard_2/generate_registarion_codes_modal.html:31 lms/templates/instructor/instructor_dashboard_2/invalidate_registration_code_modal.html:28 lms/templates/instructor/instructor_dashboard_2/set_course_mode_price_modal.html:30
+msgid "Required Information"
+msgstr "Información requerida"
+
+#: lms/templates/instructor/instructor_dashboard_2/membership.html:9
+msgid "Batch Enrollment"
+msgstr "Inscripción por lote"
+
+#: lms/templates/instructor/instructor_dashboard_2/membership.html:13 lms/templates/instructor/instructor_dashboard_2/membership.html:103
+msgid "Email Addresses/Usernames"
+msgstr "Direcciones de correo electrónico/nombres de usuario"
+
+#: lms/templates/instructor/instructor_dashboard_2/membership.html:27 lms/templates/instructor/instructor_dashboard_2/membership.html:108
+msgid "Auto Enroll"
+msgstr "Inscribir automáticamente"
+
+#: lms/templates/instructor/instructor_dashboard_2/membership.html:34
+msgid "Checking this box has no effect if 'Unenroll' is selected."
+msgstr "Marcar esta casilla no tiene efecto si se selecciona 'Anular inscripción'."
+
+#: lms/templates/instructor/instructor_dashboard_2/membership.html:43 lms/templates/instructor/instructor_dashboard_2/membership.html:80 lms/templates/instructor/instructor_dashboard_2/membership.html:123
+msgid "Notify users by email"
+msgstr "Notificar a los usuarios por correo electrónico"
+
+#: lms/templates/instructor/instructor_dashboard_2/membership.html:53
+msgctxt "someone"
+msgid "Enroll"
+msgstr "Inscribir"
+
+#: lms/templates/instructor/instructor_dashboard_2/course_info.html:59
+msgid "Total"
+msgstr "Total"
+
+#: lms/templates/instructor/instructor_dashboard_2/add_coupon_modal.html:7 lms/templates/instructor/instructor_dashboard_2/add_coupon_modal.html:19 lms/templates/instructor/instructor_dashboard_2/add_coupon_modal.html:66
+msgid "Add Coupon Code"
+msgstr "Agregar código de cupón"
+
+#: lms/templates/instructor/instructor_dashboard_2/add_coupon_modal.html:24
+msgid "Enter information about the coupon code below."
+msgstr "Ingresa la información del código de cupón a continuación."
+
+#: lms/templates/instructor/instructor_dashboard_2/add_coupon_modal.html:34
+msgid "Coupon Code"
+msgstr "Código de cupón"
+
+#: lms/templates/instructor/instructor_dashboard_2/add_coupon_modal.html:39
+msgid "Discount Percentage"
+msgstr "Porcentaje de descuento"
+
+#: lms/templates/instructor/instructor_dashboard_2/add_coupon_modal.html:57
+msgid "Add expiration date"
+msgstr "Agregar fecha de vencimiento"
+
+#: lms/templates/instructor/instructor_dashboard_2/certificates.html:21
+msgid "Example Certificates"
+msgstr "Certificados de ejemplo"
+
+#: lms/templates/instructor/instructor_dashboard_2/certificates.html:32
+msgid "Generate Example Certificates"
+msgstr "Generar certificados de ejemplo"
+
+#: lms/templates/instructor/instructor_dashboard_2/certificates.html:38
+msgid "Status:"
+msgstr "Estado:"
+
+#: lms/templates/instructor/instructor_dashboard_2/certificates.html:42
+#, python-brace-format
+msgid "Generating example {name} certificate"
+msgstr "Generando certificado de ejemplo {name}"
+
+#: lms/templates/instructor/instructor_dashboard_2/certificates.html:44
+#, python-brace-format
+msgid "Error generating example {name} certificate: {error}"
+msgstr "Error al generar el certificado de ejemplo {name}: {error}"
+
+#: lms/templates/instructor/instructor_dashboard_2/certificates.html:46
+#, python-brace-format
+msgid "View {name} certificate"
+msgstr "Ver certificado {name}"
+
+#: lms/templates/instructor/instructor_dashboard_2/certificates.html:51
+msgid "Refresh Status"
+msgstr "Actualizar estado"
+
+#: lms/templates/instructor/instructor_dashboard_2/certificates.html:60
+msgid "Student-Generated Certificates"
+msgstr "Certificados generados por estudiantes"
+
+#: lms/templates/instructor/instructor_dashboard_2/certificates.html:65
+msgid "Disable Student-Generated Certificates"
+msgstr "Desactivar certificados generados por estudiantes"
+
+#: lms/templates/instructor/instructor_dashboard_2/certificates.html:71 lms/templates/instructor/instructor_dashboard_2/certificates.html:77
+msgid "Enable Student-Generated Certificates"
+msgstr "Activar certificados generados por estudiantes"
+
+#: lms/templates/instructor/instructor_dashboard_2/certificates.html:75
+msgid "You must successfully generate example certificates before you enable student-generated certificates."
+msgstr "Debes generar correctamente los certificados de ejemplo antes de activar los certificados generados por estudiantes."
+
+#: lms/templates/instructor/instructor_dashboard_2/certificates.html:86 lms/templates/instructor/instructor_dashboard_2/certificates.html:90 lms/templates/instructor/instructor_dashboard_2/certificates.html:95
+msgid "Generate Certificates"
+msgstr "Generar certificados"
+
+#: lms/templates/instructor/instructor_dashboard_2/certificates.html:106 lms/templates/instructor/instructor_dashboard_2/course_info.html:144 lms/templates/instructor/instructor_dashboard_2/data_download.html:150 lms/templates/instructor/instructor_dashboard_2/data_download_2.html:86 lms/templates/instructor/instructor_dashboard_2/student_admin.html:238
+msgid "The status for any active tasks appears in a table below."
+msgstr "El estado de cualquier tarea activa aparece en una tabla a continuación."
+
+#: lms/templates/instructor/instructor_dashboard_2/course_info.html:8
+msgid "Enrollment Information"
+msgstr "Información de inscripción"
+
+#: lms/templates/instructor/instructor_dashboard_2/course_info.html:14
+msgid "Number of enrollees (admins, staff, and students) by track"
+msgstr "Número de inscritos, incluyendo administradores, personal y estudiantes, por modalidad"
+
+#: lms/templates/instructor/instructor_dashboard_2/course_info.html:74
+msgid "Basic Course Information"
+msgstr "Información básica del curso"
+
+#: lms/templates/instructor/instructor_dashboard_2/course_info.html:78
+msgid "Course Name:"
+msgstr "Nombre del curso:"
+
+#: lms/templates/instructor/instructor_dashboard_2/course_info.html:98
+msgid "Course Start Date:"
+msgstr "Fecha de inicio del curso:"
+
+#: lms/templates/instructor/instructor_dashboard_2/course_info.html:103
+msgid "Course End Date:"
+msgstr "Fecha de finalización del curso:"
+
+#: lms/templates/instructor/instructor_dashboard_2/course_info.html:105
+msgid "No end date set"
+msgstr "No se ha establecido una fecha de finalización"
+
+#: lms/templates/instructor/instructor_dashboard_2/course_info.html:111
+msgid "Has the course started?"
+msgstr "¿El curso ya comenzó?"
+
+#: lms/templates/instructor/instructor_dashboard_2/course_info.html:113 lms/templates/instructor/instructor_dashboard_2/course_info.html:120
+msgid "Yes"
+msgstr "Sí"
+
+#: lms/templates/instructor/instructor_dashboard_2/course_info.html:113 lms/templates/instructor/instructor_dashboard_2/course_info.html:122
+msgid "No"
+msgstr "No"
+
+#: lms/templates/instructor/instructor_dashboard_2/course_info.html:118
+msgid "Has the course ended?"
+msgstr "¿El curso ya finalizó?"
+
+#: lms/templates/instructor/instructor_dashboard_2/course_info.html:127
+msgid "Number of sections:"
+msgstr "Número de secciones:"
+
+#: lms/templates/instructor/instructor_dashboard_2/course_info.html:132
+msgid "Grade Cutoffs:"
+msgstr "Cortes de calificación:"
+
+#: lms/templates/instructor/instructor_dashboard_2/course_info.html:159
+msgid "Course Warnings"
+msgstr "Advertencias del curso"
+
+#: lms/templates/instructor/instructor_dashboard_2/data_download.html:13
+msgid "Click to display the grading configuration for the course. The grading configuration is the breakdown of graded subsections of the course (such as exams and problem sets), and can be changed on the 'Grading' page (under 'Settings') in Studio."
+msgstr "Haz clic para mostrar la configuración de calificaciones del curso. La configuración de calificaciones es el desglose de las subsecciones calificadas del curso, como exámenes y conjuntos de problemas, y se puede cambiar en la página 'Calificación', en 'Configuración', en Studio."
+
+#: lms/templates/instructor/instructor_dashboard_2/data_download.html:26
+msgid "Reports"
+msgstr "Informes"
+
+#: lms/templates/instructor/instructor_dashboard_2/data_download.html:28
+msgid "For large courses, generating some reports can take several hours. When report generation is complete, a link that includes the date and time of generation appears in the table below. These reports are generated in the background, meaning it is OK to navigate away from this page while your report is generating."
+msgstr "En cursos grandes, la generación de algunos informes puede tardar varias horas. Cuando la generación del informe esté completa, aparecerá en la tabla siguiente un enlace que incluye la fecha y hora de generación. Estos informes se generan en segundo plano, por lo que puedes salir de esta página mientras se genera el informe."
+
+#: lms/templates/instructor/instructor_dashboard_2/data_download.html:30
+msgid "Please be patient and do not click these buttons multiple times. Clicking these buttons multiple times will significantly slow the generation process."
+msgstr "Ten paciencia y no hagas clic en estos botones varias veces. Hacer clic en estos botones varias veces ralentizará significativamente el proceso de generación."
+
+#: lms/templates/instructor/instructor_dashboard_2/data_download.html:32
+msgid "Click to generate a CSV file of all students enrolled in this course, along with profile information such as email address and username:"
+msgstr "Haz clic para generar un archivo CSV con todos los estudiantes inscritos en este curso, junto con información de perfil, como dirección de correo electrónico y nombre de usuario:"
+
+#: lms/templates/instructor/instructor_dashboard_2/data_download.html:34
+msgid "Download profile information as a CSV"
+msgstr "Descargar información de perfil como CSV"
+
+#: lms/templates/instructor/instructor_dashboard_2/data_download.html:36
+msgid "Click to generate a CSV file that lists learners who can enroll in the course but have not yet done so."
+msgstr "Haz clic para generar un archivo CSV que enumera a los estudiantes que pueden inscribirse en el curso, pero que aún no lo han hecho."
+
+#: lms/templates/instructor/instructor_dashboard_2/data_download.html:38
+msgid "Download a CSV of learners who can enroll"
+msgstr "Descargar un CSV de estudiantes que pueden inscribirse"
+
+#: lms/templates/instructor/instructor_dashboard_2/data_download.html:44
+msgid "Click to download a CSV of anonymized student IDs:"
+msgstr "Haz clic para descargar un CSV de IDs anonimizados de estudiantes:"
+
+#: lms/templates/instructor/instructor_dashboard_2/data_download.html:45
+msgid "Get Student Anonymized IDs CSV"
+msgstr "Obtener CSV de IDs anonimizados de estudiantes"
+
+#: lms/templates/instructor/instructor_dashboard_2/data_download.html:48
+msgid "Click to generate a CSV file of all proctored exam results in this course."
+msgstr "Haz clic para generar un archivo CSV con todos los resultados de exámenes supervisados de este curso."
+
+#: lms/templates/instructor/instructor_dashboard_2/data_download.html:49
+msgid "Generate Proctored Exam Results Report"
+msgstr "Generar informe de resultados de exámenes supervisados"
+
+#: lms/templates/instructor/instructor_dashboard_2/data_download.html:84 lms/templates/instructor/instructor_dashboard_2/data_download_2/certificates.html:31
+msgid "Click to list certificates that are issued for this course:"
+msgstr "Haz clic para listar los certificados emitidos para este curso:"
+
+#: lms/templates/instructor/instructor_dashboard_2/data_download.html:86
+msgid "View Certificates Issued"
+msgstr "Ver certificados emitidos"
+
+#: lms/templates/instructor/instructor_dashboard_2/data_download.html:87
+msgid "Download CSV of Certificates Issued"
+msgstr "Descargar CSV de certificados emitidos"
+
+#: lms/templates/instructor/instructor_dashboard_2/data_download.html:94
+msgid "For smaller courses, click to list profile information for enrolled students directly on this page:"
+msgstr "Para cursos más pequeños, haz clic para listar la información de perfil de los estudiantes inscritos directamente en esta página:"
+
+#: lms/templates/instructor/instructor_dashboard_2/data_download.html:95
+msgid "List enrolled students' profile information"
+msgstr "Listar información de perfil de estudiantes inscritos"
+
+#: lms/templates/instructor/instructor_dashboard_2/data_download.html:100 lms/templates/instructor/instructor_dashboard_2/data_download_2/grading.html:25
+msgid "Click to generate a CSV grade report for all currently enrolled students."
+msgstr "Haz clic para generar un informe CSV de calificaciones de todos los estudiantes actualmente inscritos."
+
+#: lms/templates/instructor/instructor_dashboard_2/data_download.html:118 lms/templates/instructor/instructor_dashboard_2/data_download_2.html:48
+msgid "Reports Available for Download"
+msgstr "Informes disponibles para descargar"
+
+#: lms/templates/instructor/instructor_dashboard_2/data_download.html:125
+msgid "The answer distribution report listed below is generated periodically by an automated background process. The report is cumulative, so answers submitted after the process starts are included in a subsequent report. The report is generated several times per day."
+msgstr "El informe de distribución de respuestas que se muestra a continuación se genera periódicamente mediante un proceso automatizado en segundo plano. El informe es acumulativo, por lo que las respuestas enviadas después de que se inicia el proceso se incluyen en un informe posterior. El informe se genera varias veces al día."
+
+#: lms/templates/instructor/instructor_dashboard_2/edit_coupon_modal.html:7
+msgid "Edit Coupon Code"
+msgstr "Editar código de cupón"
+
+#: lms/templates/instructor/instructor_dashboard_2/edit_coupon_modal.html:20
+msgid "Edit Coupon Code Information"
+msgstr "Editar información del código de cupón"
+
+#: lms/templates/instructor/instructor_dashboard_2/edit_coupon_modal.html:30
+msgid "Code"
+msgstr "Código"
+
+#: lms/templates/instructor/instructor_dashboard_2/edit_coupon_modal.html:31
+msgid "example: A123DS"
+msgstr "ejemplo: A123DS"
+
+#: lms/templates/instructor/instructor_dashboard_2/edit_coupon_modal.html:35
+msgid "Percentage Discount"
+msgstr "Porcentaje de descuento"
+
+#: lms/templates/instructor/instructor_dashboard_2/edit_coupon_modal.html:53
+msgid "Expiration Date"
+msgstr "Fecha de vencimiento"
+
+#: lms/templates/instructor/instructor_dashboard_2/edit_coupon_modal.html:62
+msgid "Update Coupon Code"
+msgstr "Actualizar código de cupón"
+
+#: lms/templates/instructor/instructor_dashboard_2/extensions.html:7
+msgid "Individual due date extensions"
+msgstr "Prórrogas individuales de fecha límite"
+
+#: lms/templates/instructor/instructor_dashboard_2/extensions.html:15 lms/templates/instructor/instructor_dashboard_2/extensions.html:70 lms/templates/instructor/instructor_dashboard_2/extensions.html:93
+#, python-brace-format
+msgid "Specify the {platform_name} email address or username of a student here:"
+msgstr "Especifica aquí la dirección de correo electrónico o el nombre de usuario de {platform_name} de un estudiante:"
+
+#: lms/templates/instructor/instructor_dashboard_2/extensions.html:17 lms/templates/instructor/instructor_dashboard_2/extensions.html:72 lms/templates/instructor/instructor_dashboard_2/extensions.html:95
+msgid "Student Email or Username"
+msgstr "Correo electrónico o nombre de usuario del estudiante"
+
+#: lms/templates/instructor/instructor_dashboard_2/extensions.html:31
+#, python-brace-format
+msgid "Specify the extension due date and time (in UTC; please specify {format_string})."
+msgstr "Especifica la fecha y hora límite de la prórroga, en UTC; usa el formato {format_string}."
+
+#: lms/templates/instructor/instructor_dashboard_2/extensions.html:39
+msgid "Change due date for student"
+msgstr "Cambiar fecha límite para el estudiante"
+
+#: lms/templates/instructor/instructor_dashboard_2/extensions.html:45
+msgid "Viewing granted extensions"
+msgstr "Ver prórrogas concedidas"
+
+#: lms/templates/instructor/instructor_dashboard_2/extensions.html:63
+msgid "List all students with due date extensions"
+msgstr "Listar todos los estudiantes con prórrogas de fecha límite"
+
+#: lms/templates/instructor/instructor_dashboard_2/extensions.html:67
+msgid "Specify a student to see all of that student's extensions."
+msgstr "Especifica un estudiante para ver todas sus prórrogas."
+
+#: lms/templates/instructor/instructor_dashboard_2/extensions.html:74
+msgid "List date extensions for student"
+msgstr "Listar prórrogas de fecha para el estudiante"
+
+#: lms/templates/instructor/instructor_dashboard_2/extensions.html:86
+msgid "Resetting extensions"
+msgstr "Restablecer prórrogas"
+
+#: lms/templates/instructor/instructor_dashboard_2/extensions.html:105
+msgid "Reason for reset"
+msgstr "Motivo del restablecimiento"
+
+#: lms/templates/instructor/instructor_dashboard_2/extensions.html:111
+msgid "Reset due date for student"
+msgstr "Restablecer fecha límite para el estudiante"
+
+#: lms/templates/instructor/instructor_dashboard_2/generate_registarion_codes_modal.html:7
+msgid "Generate Registration Code Modal"
+msgstr "Modal para generar códigos de inscripción"
+
+#: lms/templates/instructor/instructor_dashboard_2/generate_registarion_codes_modal.html:19 lms/templates/instructor/instructor_dashboard_2/generate_registarion_codes_modal.html:150
+msgid "Create Enrollment Codes"
+msgstr "Crear códigos de inscripción"
+
+#: lms/templates/instructor/instructor_dashboard_2/generate_registarion_codes_modal.html:24
+msgid "* Required Information"
+msgstr "* Información requerida"
+
+#: lms/templates/instructor/instructor_dashboard_2/generate_registarion_codes_modal.html:39
+msgid "The organization that purchased enrollments in the course"
+msgstr "La organización que compró inscripciones en el curso"
+
+#: lms/templates/instructor/instructor_dashboard_2/generate_registarion_codes_modal.html:43
+msgid "Organization Contact"
+msgstr "Contacto de la organización"
+
+#: lms/templates/instructor/instructor_dashboard_2/generate_registarion_codes_modal.html:45
+msgid "Organization Contact Name"
+msgstr "Nombre del contacto de la organización"
+
+#: lms/templates/instructor/instructor_dashboard_2/generate_registarion_codes_modal.html:47
+msgid "The primary contact at the organization"
+msgstr "El contacto principal de la organización"
+
+#: lms/templates/instructor/instructor_dashboard_2/generate_registarion_codes_modal.html:57
+msgid "Invoice Recipient"
+msgstr "Destinatario de la factura"
+
+#: lms/templates/instructor/instructor_dashboard_2/generate_registarion_codes_modal.html:61
+msgid "The contact who should receive the invoice"
+msgstr "El contacto que debe recibir la factura"
+
+#: lms/templates/instructor/instructor_dashboard_2/generate_registarion_codes_modal.html:71
+msgid "Organization Billing Address"
+msgstr "Dirección de facturación de la organización"
+
+#: lms/templates/instructor/instructor_dashboard_2/generate_registarion_codes_modal.html:73
+msgid "Address Line 1"
+msgstr "Dirección línea 1"
+
+#: lms/templates/instructor/instructor_dashboard_2/generate_registarion_codes_modal.html:78
+msgid "Address Line 2"
+msgstr "Dirección línea 2"
+
+#: lms/templates/instructor/instructor_dashboard_2/generate_registarion_codes_modal.html:83
+msgid "Address Line 3"
+msgstr "Dirección línea 3"
+
+#: lms/templates/instructor/instructor_dashboard_2/generate_registarion_codes_modal.html:93
+msgid "State/Province"
+msgstr "Estado/Provincia"
+
+#: lms/templates/instructor/instructor_dashboard_2/generate_registarion_codes_modal.html:98
+msgid "Zip"
+msgstr "Código postal"
+
+#: lms/templates/instructor/instructor_dashboard_2/generate_registarion_codes_modal.html:109
+msgid "Unit Price"
+msgstr "Precio unitario"
+
+#: lms/templates/instructor/instructor_dashboard_2/generate_registarion_codes_modal.html:113
+msgid "The price per enrollment purchased"
+msgstr "El precio por inscripción comprada"
+
+#: lms/templates/instructor/instructor_dashboard_2/generate_registarion_codes_modal.html:117
+msgid "Number of Enrollment Codes"
+msgstr "Número de códigos de inscripción"
+
+#: lms/templates/instructor/instructor_dashboard_2/generate_registarion_codes_modal.html:121
+msgid "The total number of enrollment codes to create"
+msgstr "El número total de códigos de inscripción que se crearán"
+
+#: lms/templates/instructor/instructor_dashboard_2/generate_registarion_codes_modal.html:126
+msgid "Course Team Internal Reference"
+msgstr "Referencia interna del equipo del curso"
+
+#: lms/templates/instructor/instructor_dashboard_2/generate_registarion_codes_modal.html:130
+msgid "Internal reference information for the sale"
+msgstr "Información de referencia interna para la venta"
+
+#: lms/templates/instructor/instructor_dashboard_2/generate_registarion_codes_modal.html:134
+msgid "Customer Reference"
+msgstr "Referencia del cliente"
+
+#: lms/templates/instructor/instructor_dashboard_2/generate_registarion_codes_modal.html:138
+msgid "Customer's purchase order or other reference information"
+msgstr "Orden de compra del cliente u otra información de referencia"
+
+#: lms/templates/instructor/instructor_dashboard_2/generate_registarion_codes_modal.html:143
+msgid "Send me a copy of the invoice"
+msgstr "Enviarme una copia de la factura"
+
+#: lms/templates/instructor/instructor_dashboard_2/instructor_dashboard_2.html:119
+msgid "View Course in Studio"
+msgstr "Ver curso en Studio"
+
+#: lms/templates/instructor/instructor_dashboard_2/invalidate_registration_code_modal.html:5 lms/templates/instructor/instructor_dashboard_2/invalidate_registration_code_modal.html:17
+msgid "Enrollment Code Status"
+msgstr "Estado del código de inscripción"
+
+#: lms/templates/instructor/instructor_dashboard_2/invalidate_registration_code_modal.html:22
+msgid "Change the status of an enrollment code."
+msgstr "Cambiar el estado de un código de inscripción."
+
+#: lms/templates/instructor/instructor_dashboard_2/invalidate_registration_code_modal.html:32
+msgid "Enrollment Code"
+msgstr "Código de inscripción"
+
+#: lms/templates/instructor/instructor_dashboard_2/invalidate_registration_code_modal.html:38
+msgid "Find Enrollment Code"
+msgstr "Buscar código de inscripción"
+
+#: lms/templates/instructor/instructor_dashboard_2/membership.html:11 lms/templates/instructor/instructor_dashboard_2/membership.html:101
+msgid "Enter email addresses and/or usernames separated by new lines or commas."
+msgstr "Ingresa direcciones de correo electrónico y/o nombres de usuario separados por líneas nuevas o comas."
+
+#: lms/templates/instructor/instructor_dashboard_2/membership.html:12
+msgid "You will not get notification for emails that bounce, so please double-check spelling."
+msgstr "No recibirás notificaciones por correos electrónicos rebotados, así que revisa cuidadosamente la ortografía."
+
+#: lms/templates/instructor/instructor_dashboard_2/membership.html:18
+msgid "Enter the reason why the students are to be manually enrolled or unenrolled."
+msgstr "Ingresa el motivo por el cual los estudiantes serán inscritos o desinscritos manualmente."
+
+#: lms/templates/instructor/instructor_dashboard_2/membership.html:19
+msgid "This cannot be left blank and will be recorded and presented in Enrollment Reports."
+msgstr "Esto no puede quedar en blanco y se registrará y presentará en los informes de inscripción."
+
+#: lms/templates/instructor/instructor_dashboard_2/membership.html:20
+msgid "Therefore, please give enough detail to account for this action."
+msgstr "Por lo tanto, proporciona suficiente detalle para justificar esta acción."
+
+#: lms/templates/instructor/instructor_dashboard_2/membership.html:21
+msgid "Reason"
+msgstr "Motivo"
+
+#: lms/templates/instructor/instructor_dashboard_2/membership.html:64
+msgid "Register/Enroll Students"
+msgstr "Registrar/inscribir estudiantes"
+
+#: lms/templates/instructor/instructor_dashboard_2/membership.html:75
+msgid "Upload CSV"
+msgstr "Subir CSV"
+
+#: lms/templates/instructor/instructor_dashboard_2/membership.html:99
+msgid "Batch Beta Tester Addition"
+msgstr "Adición por lote de evaluadores beta"
+
+#: lms/templates/instructor/instructor_dashboard_2/membership.html:102
+#, python-brace-format
+msgid "Note: Users must have an activated {platform_name} account before they can be enrolled as beta testers."
+msgstr "Nota: Los usuarios deben tener una cuenta de {platform_name} activada antes de poder inscribirse como evaluadores beta."
+
+#: lms/templates/instructor/instructor_dashboard_2/membership.html:114
+msgid "Checking this box has no effect if 'Remove beta testers' is selected."
+msgstr "Marcar esta casilla no tiene efecto si se selecciona 'Eliminar evaluadores beta'."
+
+#: lms/templates/instructor/instructor_dashboard_2/membership.html:133
+msgid "Add beta testers"
+msgstr "Agregar evaluadores beta"
+
+#: lms/templates/instructor/instructor_dashboard_2/membership.html:134
+msgid "Remove beta testers"
+msgstr "Eliminar evaluadores beta"
+
+#. Translators: an "Administrator Group" is a group, such as Course Staff,
+#. that
+#. users can be added to.
+#: lms/templates/instructor/instructor_dashboard_2/membership.html:151
+msgid "Select a course team role:"
+msgstr "Selecciona un rol del equipo del curso:"
+
+#: lms/templates/instructor/instructor_dashboard_2/membership.html:153
+msgid "Getting available lists..."
+msgstr "Obteniendo listas disponibles..."
+
+#: lms/templates/instructor/instructor_dashboard_2/membership.html:161
+msgid "Staff cannot modify these lists. To manage course team membership, a course Admin must give you the Admin role to add Staff or Beta Testers, or the Discussion Admin role to add discussion moderators and TAs."
+msgstr "El personal no puede modificar estas listas. Para administrar la membresía del equipo del curso, un administrador del curso debe asignarte el rol de administrador para agregar personal o evaluadores beta, o el rol de administrador de discusiones para agregar moderadores de discusión y asistentes."
+
+#: lms/templates/instructor/instructor_dashboard_2/membership.html:179
+msgid "Add Staff"
+msgstr "Agregar personal"
+
+#: lms/templates/instructor/instructor_dashboard_2/membership.html:208
+msgid "Add Admin"
+msgstr "Agregar administrador"
+
+#: lms/templates/instructor/instructor_dashboard_2/membership.html:222
+msgid "Add Beta Tester"
+msgstr "Agregar evaluador beta"
+
+#: lms/templates/instructor/instructor_dashboard_2/membership.html:227
+msgid "Discussion Admins"
+msgstr "Administradores de discusiones"
+
+#: lms/templates/instructor/instructor_dashboard_2/membership.html:237
+msgid "Add Discussion Admin"
+msgstr "Agregar administrador de discusiones"
+
+#: lms/templates/instructor/instructor_dashboard_2/membership.html:256
+msgid "Discussion Moderators"
+msgstr "Moderadores de discusiones"
+
+#: lms/templates/instructor/instructor_dashboard_2/membership.html:265
+msgid "Add Moderator"
+msgstr "Agregar moderador"
+
+#: lms/templates/instructor/instructor_dashboard_2/membership.html:292
+msgid "Add Community TA"
+msgstr "Agregar asistente de comunidad"
+
+#: lms/templates/instructor/instructor_dashboard_2/membership.html:299
+msgid "CCX Coaches"
+msgstr "Facilitadores CCX"
+
+#: lms/templates/instructor/instructor_dashboard_2/membership.html:306
+msgid "Add CCX Coach"
+msgstr "Agregar facilitador CCX"
+
+#: lms/templates/instructor/instructor_dashboard_2/send_email.html:19 lms/templates/instructor/instructor_dashboard_2/send_email.html:23
+msgid "Send to:"
+msgstr "Enviar a:"
+
+#: lms/templates/instructor/instructor_dashboard_2/send_email.html:27
+msgid "Myself"
+msgstr "Yo"
+
+#: lms/templates/instructor/instructor_dashboard_2/send_email.html:73
+msgid "Subject: "
+msgstr "Asunto: "
+
+#: lms/templates/instructor/instructor_dashboard_2/send_email.html:85
+msgid "Message:"
+msgstr "Mensaje:"
+
+#: lms/templates/instructor/instructor_dashboard_2/send_email.html:106
+msgid "CAUTION!"
+msgstr "¡PRECAUCIÓN!"
+
+#: lms/templates/instructor/instructor_dashboard_2/send_email.html:111
+msgid "Send Email"
+msgstr "Enviar correo electrónico"
+
+#: lms/templates/instructor/instructor_dashboard_2/send_email.html:119
+msgid "Email actions run in the background. The status for any active tasks - including email tasks - appears in a table below."
+msgstr "Las acciones de correo electrónico se ejecutan en segundo plano. El estado de cualquier tarea activa, incluidas las tareas de correo electrónico, aparece en una tabla a continuación."
+
+#: lms/templates/instructor/instructor_dashboard_2/send_email.html:131
+msgid "Email Task History"
+msgstr "Historial de tareas de correo electrónico"
+
+#: lms/templates/instructor/instructor_dashboard_2/send_email.html:148
+msgid "Show Email Task History"
+msgstr "Mostrar historial de tareas de correo electrónico"
+
+#: lms/templates/instructor/instructor_dashboard_2/set_course_mode_price_modal.html:7 lms/templates/instructor/instructor_dashboard_2/set_course_mode_price_modal.html:19
+msgid "Set Course Mode Price"
+msgstr "Establecer precio de la modalidad del curso"
+
+#: lms/templates/instructor/instructor_dashboard_2/set_course_mode_price_modal.html:24
+msgid "Please enter Course Mode detail below"
+msgstr "Ingresa el detalle de la modalidad del curso a continuación"
+
+#: lms/templates/instructor/instructor_dashboard_2/set_course_mode_price_modal.html:34
+msgid "Course Price"
+msgstr "Precio del curso"
+
+#: lms/templates/instructor/instructor_dashboard_2/set_course_mode_price_modal.html:38
+msgid "Currency"
+msgstr "Moneda"
+
+#: lms/templates/instructor/instructor_dashboard_2/set_course_mode_price_modal.html:46
+msgid "Set Price"
+msgstr "Establecer precio"
+
+#: lms/templates/instructor/instructor_dashboard_2/special_exams.html:18
+msgid "Allowance Section"
+msgstr "Sección de excepciones"
+
+#: lms/templates/instructor/instructor_dashboard_2/student_admin.html:75 lms/templates/instructor/instructor_dashboard_2/student_admin.html:203
+msgid "Example"
+msgstr "Ejemplo"
+
+#: lms/templates/instructor/instructor_dashboard_2/student_admin.html:165
+msgid "Rescore All Problems"
+msgstr "Recalificar todos los problemas"
