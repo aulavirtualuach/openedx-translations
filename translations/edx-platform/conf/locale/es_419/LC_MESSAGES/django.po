@@ -13097,3 +13097,6 @@ msgstr "Configurar excepciones para generar certificados para estudiantes que no
 
 msgid "Invalidate Certificates"
 msgstr "Invalidar certificados"
+
+msgid "Starts: {startDate}"
+msgstr "Inicia: {startDate}"
