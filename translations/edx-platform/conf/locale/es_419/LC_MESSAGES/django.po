@@ -10588,7 +10588,7 @@ msgstr "Ingrese el nombre de los componentes avanzados para utilizar en su Libre
 
 #: xmodule/lti_block.py:133
 msgid "The display name for this component. Analytics reports may also use the display name to identify this component."
-msgstr "El nombre para mostrar para este componente. Los informes de Analytics también pueden utilizar el nombre para mostrar para identificar este componente."
+msgstr "El nombre para mostrar para este componente. Los reportes de Analytics también pueden utilizar el nombre para mostrar para identificar este componente."
 
 #: xmodule/lti_block.py:140
 msgid "LTI ID"
@@ -11541,7 +11541,7 @@ msgstr "Todas las inscripciones"
 
 #: instruct.courseInfo.enrollmentSummary.audit
 msgid "Audit"
-msgstr "Tomar como asistente"
+msgstr "Tomar el curso de forma gratuita, sin certificado"
 
 #: instruct.courseInfo.enrollmentSummary.credit
 msgid "Credit"
@@ -11646,14 +11646,14 @@ msgid "CCX Coaches are able to create their own Custom Courses based on this cou
 msgstr "Los tutores CCX pueden crear sus propios cursos personalizados con base en este curso, y usarlos para dar instrucción personalizada a sus propios estudiantes basándose en el material de este curso."
 
 #: instruct.courseTeam.roles.communityTADescription
-msgid "Community TAs are members of the community who help course teams moderate discussions. They can see posts by learners in their assigned cohort or enrollment track, and can edit or delete posts, clear flags, close or re-open threads, and endorse responses. Their posts are marked as 'Community TA'. Any users not yet enrolled in the course will be automatically enrolled when added as Community TA."
+msgid "Community TAs are members of the community who help course teams moderate discussions. They can see posts by learners in their assigned cohort or enrollment track, and can edit or delete posts, clear flags, close or re-open threads, and endorse responses. Their posts are marked as 'Community TA'. Any users not yet enrolled in the course will be automatically enrolled when added as Community TA"
 msgstr ""
-"Los asistentes docentes comunitarios son miembros de la comunidad que ayudan a los equipos del curso a moderar los debates. Pueden ver las publicaciones de los estudiantes en la cohorte o modalidad de inscripción que tienen asignada, y pueden editar o eliminar publicaciones, quitar marcas, cerrar o reabrir hilos y respaldar respuestas. Sus publicaciones aparecen marcadas como 'Asistente docente comunitario'. Los usuarios que aún no estén inscritos en el "
-"curso se inscribirán automáticamente al ser agregados como asistentes docentes comunitarios."
+"Los asistentes de la comunidad son miembros de la comunidad que ayudan a los equipos del curso a moderar los debates. Pueden ver las publicaciones de los alumnos de su cohorte asignada o de su ruta de inscripción, y pueden editar o eliminar publicaciones, borrar las banderas, cerrar o reabrir hilos y respaldar las respuestas. Sus publicaciones se marcan como 'Community TA'. Todos los usuarios que aún no estén inscritos en el curso se inscribirán automáticamente "
+"cuando se los agregue como asistentes de la comunidad."
 
 #: instruct.courseTeam.roles.courseDataResearchers
-msgid "Course Data Researchers"
-msgstr "Investigadores de datos del curso"
+msgid "Course Data Researcher"
+msgstr "Investigador de datos del curso"
 
 #: instruct.courseTeam.roles.courseDataResearchersDescription
 msgid "Course Data Researchers can access the data download tab. Any users not yet enrolled in the course will be automatically enrolled when added as Course Data Researcher."
@@ -11664,30 +11664,30 @@ msgid "Discussion Admin"
 msgstr "Administrador de foros de discusión"
 
 #: instruct.courseTeam.roles.discussionAdminDescription
-msgid "Discussion Admins can edit or delete any post, clear misuse flags, close and re-open threads, endorse responses, and see posts from all groups. Their posts are marked as 'staff'. They can also add and remove the discussion moderation roles to manage course team membership. Any users not yet enrolled in the course will be automatically enrolled when added as Discussion Admin."
+msgid "Discussion Admins can edit or delete any post, clear misuse flags, close and re-open threads, endorse responses, and see posts from all groups. Their posts are marked as 'staff'. They can also add and remove the discussion moderation roles to manage course team membership. Any users not yet enrolled in the course will be automatically enrolled when added as Discussion Admin"
 msgstr ""
-"Los administradores de debates pueden editar o eliminar cualquier publicación, quitar marcas de uso indebido, cerrar y reabrir hilos, respaldar respuestas y ver publicaciones de todos los grupos. Sus publicaciones aparecen marcadas como 'equipo del curso'. También pueden agregar y quitar los roles de moderación de debates para administrar la membresía del equipo del curso. Los usuarios que aún no estén inscritos en el curso se inscribirán automáticamente "
-"al ser agregados como administradores de debates."
+"Los administradores de discusión pueden editar o eliminar cualquier publicación, borrar las banderas de uso indebido, cerrar y volver a abrir hilos, respaldar respuestas y ver publicaciones de todos los grupos. Sus publicaciones están marcadas como 'staff'. También pueden agregar y eliminar los roles de moderación de discusión para administrar la membresía del equipo del curso. Cualquier usuario que aún no esté inscrito en el curso se inscribirá automáticamente "
+"cuando se lo agregue como administrador de discusión."
 
 #: instruct.courseTeam.roles.discussionModerator
 msgid "Discussion Moderator"
 msgstr "Moderador de discusión"
 
 #: instruct.courseTeam.roles.discussionModeratorDescription
-msgid "Discussion Moderators can edit or delete any post, clear misuse flags, close and re-open threads, endorse responses, and see posts from all groups. Their posts are marked as 'staff'. They cannot manage course team membership by adding or removing discussion moderation roles. Any users not yet enrolled in the course will be automatically enrolled when added as Discussion Moderator."
+msgid "Discussion Moderators can edit or delete any post, clear misuse flags, close and re-open threads, endorse responses, and see posts from all groups. Their posts are marked as 'staff'. They cannot manage course team membership by adding or removing discussion moderation roles. Any users not yet enrolled in the course will be automatically enrolled when added as Discussion Moderator"
 msgstr ""
-"Los moderadores de debates pueden editar o eliminar cualquier publicación, quitar marcas de uso indebido, cerrar y reabrir hilos, respaldar respuestas y ver publicaciones de todos los grupos. Sus publicaciones aparecen marcadas como 'equipo del curso'. No pueden administrar la membresía del equipo del curso agregando o quitando roles de moderación de debates. Los usuarios que aún no estén inscritos en el curso se inscribirán automáticamente al ser "
-"agregados como moderadores de debates."
+"Los moderadores de discusión pueden editar o eliminar cualquier publicación, borrar las banderas de uso indebido, cerrar y volver a abrir hilos, respaldar respuestas y ver publicaciones de todos los grupos. Sus publicaciones están marcadas como 'staff'. No pueden administrar la membresía del equipo del curso agregando o eliminando roles de moderación de discusión. Cualquier usuario que aún no esté inscrito en el curso se inscribirá automáticamente cuando se lo "
+"agregue como moderador de discusión."
 
 #: instruct.courseTeam.roles.groupCommunityTA
 msgid "Group Community TA"
 msgstr "Profesor asistente de grupo de la comunidad"
 
 #: instruct.courseTeam.roles.groupCommunityTADescription
-msgid "Group Community TAs are members of the community who help course teams moderate discussions. Group Community TAs see only posts by learners in their assigned group. They can edit or delete posts, clear flags, close and re-open threads, and endorse responses, but only for posts by learners in their group. Their posts are marked as 'Community TA'. Any users not yet enrolled in the course will be automatically enrolled when added as Group Community TA."
+msgid "Group Community TAs are members of the community who help course teams moderate discussions. Group Community TAs see only posts by learners in their assigned group. They can edit or delete posts, clear flags, close and re-open threads, and endorse responses, but only for posts by learners in their group. Their posts are marked as 'Community TA'. Any users not yet enrolled in the course will be automatically enrolled when added as Group Community TA"
 msgstr ""
-"Los asistentes de grupo de la comunidad son miembros de la comunidad que ayudan a los equipos del curso a moderar los debates. Los asistentes docentes comunitarios de grupo solo ven las publicaciones de los estudiantes de su grupo asignado. Pueden editar o eliminar publicaciones, quitar marcas, cerrar y reabrir hilos, y respaldar respuestas, pero solo en las publicaciones de los estudiantes de su grupo. Sus publicaciones aparecen marcadas como 'Asistente "
-"docente comunitario'. Los usuarios que aún no estén inscritos en el curso se inscribirán automáticamente al ser agregados como asistentes docentes comunitarios de grupo."
+"Los asistentes de grupo de la comunidad son miembros de la comunidad que ayudan a los equipos del curso a moderar las discusiones. Los asistentes de grupo de la comunidad solo ven las publicaciones de los alumnos de su grupo asignado. Pueden editar o eliminar publicaciones, borrar las banderas, cerrar y volver a abrir hilos y respaldar las respuestas, pero solo las publicaciones de los alumnos de su grupo. Sus publicaciones se marcan como 'Community TA'. "
+"Cualquier usuario que aún no esté inscrito en el curso se inscribirá automáticamente cuando se lo agregue como asistente de grupo de la comunidad."
 
 #: instruct.courseTeam.roles.limitedStaff
 msgid "Limited Staff"
@@ -11727,7 +11727,7 @@ msgstr "Ver plantilla"
 
 #: instruct.dataDownloads.downloadReport.error
 msgid "Failed to download report."
-msgstr "No se pudo descargar el informe."
+msgstr "No se pudo descargar el reporte."
 
 #: instruct.dataDownloads.generateReport.error
 msgid "Failed to generate report."
@@ -11747,7 +11747,7 @@ msgstr "Generar reportes"
 
 #: instruct.dataDownloads.noReportsFoundHeader
 msgid "No reports found"
-msgstr "No se encontraron informes"
+msgstr "No se encontraron reportes"
 
 #: instruct.dataDownloads.page.description
 msgid "The reports listed below are available for download, identified by UTC date and time of generation."
@@ -11807,115 +11807,115 @@ msgstr "Respuestas al problema"
 
 #: instruct.dataDownloads.reports.anonymizedStudentIds.description
 msgid "Report of enrolled learners with student IDs anonymized."
-msgstr "Informe de estudiantes inscritos con identificaciones de estudiante anonimizadas."
+msgstr "Reporte de estudiantes inscritos con identificaciones de estudiante anonimizadas."
 
 #: instruct.dataDownloads.reports.anonymizedStudentIds.generate
 msgid "Generate Anonymized Student IDs Report"
-msgstr "Generar informe de identificaciones de estudiantes anonimizadas"
+msgstr "Generar reporte de identificaciones de estudiantes anonimizadas"
 
 #: instruct.dataDownloads.reports.anonymizedStudentIds.title
 msgid "Anonymized Student IDs Report"
-msgstr "Informe de identificaciones de estudiantes anonimizadas"
+msgstr "Reporte de identificaciones de estudiantes anonimizadas"
 
 #: instruct.dataDownloads.reports.enrolledStudents.description
 msgid "Report of all enrolled learners for this course including email address and username."
-msgstr "Informe de todos los estudiantes inscritos en este curso, incluyendo dirección de correo electrónico y nombre de usuario."
+msgstr "Reporte de todos los estudiantes inscritos en este curso, incluyendo dirección de correo electrónico y nombre de usuario."
 
 #: instruct.dataDownloads.reports.enrolledStudents.generate
 msgid "Generate Enrolled Students Report"
-msgstr "Generar informe de estudiantes inscritos"
+msgstr "Generar reporte de estudiantes inscritos"
 
 #: instruct.dataDownloads.reports.enrolledStudents.title
 msgid "Enrolled Students Report"
-msgstr "Informe de estudiantes inscritos"
+msgstr "Reporte de estudiantes inscritos"
 
 #: instruct.dataDownloads.reports.grade.description
 msgid "Course grade report for all enrolled learners."
-msgstr "Informe de calificaciones del curso para todos los estudiantes inscritos."
+msgstr "Reporte de calificaciones del curso para todos los estudiantes inscritos."
 
 #: instruct.dataDownloads.reports.grade.generate
 msgid "Generate Grade Report"
-msgstr "Generar informe de calificaciones"
+msgstr "Generar reporte de calificaciones"
 
 #: instruct.dataDownloads.reports.grade.title
 msgid "Grade Report"
-msgstr "Informe de calificaciones"
+msgstr "Reporte de calificaciones"
 
 #: instruct.dataDownloads.reports.issuedCertificates.description
 msgid "Report of Certificates Issued."
-msgstr "Informe de certificados emitidos."
+msgstr "Reporte de certificados emitidos."
 
 #: instruct.dataDownloads.reports.issuedCertificates.generate
 msgid "Generate Certificates Report"
-msgstr "Generar informe de certificados"
+msgstr "Generar reporte de certificados"
 
 #: instruct.dataDownloads.reports.ora2Data.description
 msgid "Report of all ORA assignment details."
-msgstr "Informe de todos los detalles de las actividades ORA."
+msgstr "Reporte de todos los detalles de las actividades ORA."
 
 #: instruct.dataDownloads.reports.ora2Data.generate
 msgid "Generate ORA Data Report"
-msgstr "Generar informe de datos de ORA"
+msgstr "Generar reporte de datos de ORA"
 
 #: instruct.dataDownloads.reports.ora2Data.title
 msgid "ORA Data Report"
-msgstr "Informe de datos de ORA"
+msgstr "Reporte de datos de ORA"
 
 #: instruct.dataDownloads.reports.ora2Summary.description
 msgid "Report of details and statuses for ORA."
-msgstr "Informe de detalles y estados de ORA."
+msgstr "Reporte de detalles y estados de ORA."
 
 #: instruct.dataDownloads.reports.ora2Summary.generate
 msgid "Generate ORA Summary Report"
-msgstr "Generar informe de resumen de ORA"
+msgstr "Generar reporte de resumen de ORA"
 
 #: instruct.dataDownloads.reports.ora2Summary.title
 msgid "ORA Summary Report"
-msgstr "Informe de resumen de ORA"
+msgstr "Reporte de resumen de ORA"
 
 #: instruct.dataDownloads.reports.pendingActivations.description
 msgid "Report of enrolled learners who have not yet activated their account."
-msgstr "Informe de estudiantes inscritos que aún no han activado su cuenta."
+msgstr "Reporte de estudiantes inscritos que aún no han activado su cuenta."
 
 #: instruct.dataDownloads.reports.pendingActivations.generate
 msgid "Generate Pending Activations Report"
-msgstr "Generar informe de activaciones pendientes"
+msgstr "Generar reporte de activaciones pendientes"
 
 #: instruct.dataDownloads.reports.pendingActivations.title
 msgid "Pending Activations Report"
-msgstr "Informe de activaciones pendientes"
+msgstr "Reporte de activaciones pendientes"
 
 #: instruct.dataDownloads.reports.pendingEnrollments.description
 msgid "Report of learners who can enroll in the course but have not done so yet."
-msgstr "Informe de estudiantes que pueden inscribirse en el curso, pero aún no lo han hecho."
+msgstr "Reporte de estudiantes que pueden inscribirse en el curso, pero aún no lo han hecho."
 
 #: instruct.dataDownloads.reports.pendingEnrollments.generate
 msgid "Generate Pending Enrollments Report"
-msgstr "Generar informe de inscripciones pendientes"
+msgstr "Generar reporte de inscripciones pendientes"
 
 #: instruct.dataDownloads.reports.pendingEnrollments.title
 msgid "Pending Enrollments Report"
-msgstr "Informe de inscripciones pendientes"
+msgstr "Reporte de inscripciones pendientes"
 
 #: instruct.dataDownloads.reports.problemGrade.description
 msgid "Report showing students' grades for all problems in the course."
-msgstr "Informe que muestra las calificaciones de los estudiantes en todos los problemas del curso."
+msgstr "Reporte que muestra las calificaciones de los estudiantes en todos los problemas del curso."
 
 #: instruct.dataDownloads.reports.problemGrade.generate
 msgid "Generate Problem Grade Report"
-msgstr "Generar informe de calificaciones de problemas"
+msgstr "Generar reporte de calificaciones de problemas"
 
 #: instruct.dataDownloads.reports.problemGrade.title
 msgid "Problem Grade Report"
-msgstr "Informe de calificaciones de problemas"
+msgstr "Reporte de calificaciones de problemas"
 
 #: instruct.dataDownloads.reports.problemResponses.description
 msgid "Report of all student answers to a problem."
-msgstr "Informe de todas las respuestas de los estudiantes a un problema."
+msgstr "Reporte de todas las respuestas de los estudiantes a un problema."
 
 #: instruct.dataDownloads.reports.problemResponses.generate
 msgid "Generate Problem Report"
-msgstr "Generar informe de problemas"
+msgstr "Generar reporte de problemas"
 
 #: instruct.dataDownloads.reports.problemResponses.infoIconLabel
 msgid "Example format for problem location"
@@ -11939,7 +11939,7 @@ msgstr "Especificar sección o problema:"
 
 #: instruct.dataDownloads.reports.problemResponses.title
 msgid "Problem Responses Report"
-msgstr "Informe de respuestas a problemas"
+msgstr "Reporte de respuestas a problemas"
 
 #: instruct.dataDownloads.reports.submissionFiles.description
 msgid "ZIP file containing all submission texts and attachments."
@@ -11959,31 +11959,31 @@ msgstr "Fecha de generación"
 
 #: instruct.dataDownloads.table.column.reportName
 msgid "Report Name"
-msgstr "Nombre del informe"
+msgstr "Nombre del reporte"
 
 #: instruct.dataDownloads.table.column.reportType
 msgid "Report Type"
-msgstr "Tipo de informe"
+msgstr "Tipo de reporte"
 
 #: instruct.dataDownloads.table.downloadLink
 msgid "Download Report"
-msgstr "Descargar informe"
+msgstr "Descargar reporte"
 
 #: instruct.dataDownloads.tabs.certificateReports
 msgid "Certificate Reports"
-msgstr "Informes de certificados"
+msgstr "Reportes de certificados"
 
 #: instruct.dataDownloads.tabs.enrollmentReports
 msgid "Enrollment Reports"
-msgstr "Informes de inscripción"
+msgstr "Reportes de inscripción"
 
 #: instruct.dataDownloads.tabs.gradingReports
 msgid "Grading Reports"
-msgstr "Informes de calificaciones"
+msgstr "Reportes de calificaciones"
 
 #: instruct.dataDownloads.tabs.problemResponseReports
 msgid "Problem Response Reports"
-msgstr "Informes de respuestas a problemas"
+msgstr "Reportes de respuestas a problemas"
 
 #: instruct.dateExtensions.page.addIndividualDueDateExtensionModal.addExtension
 msgid "Add Extension"
@@ -12427,7 +12427,7 @@ msgstr "Información de inscripción"
 
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:14
 msgid "Number of enrollees (admins, staff, and students) by track"
-msgstr "Número de inscritos, incluyendo administradores, personal y estudiantes, por modalidad"
+msgstr "Número total de inscritos (incluye administradores, personal de apoyo y estudiantes) por modalidad"
 
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:74
 msgid "Basic Course Information"
@@ -12447,7 +12447,7 @@ msgstr "Fecha de finalización del curso:"
 
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:105
 msgid "No end date set"
-msgstr "No se ha establecido una fecha de finalización"
+msgstr "Sin fecha de finalización definida"
 
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:111
 msgid "Has the course started?"
@@ -12483,11 +12483,11 @@ msgstr "Haz clic para mostrar la configuración de calificaciones del curso. La 
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html:26
 msgid "Reports"
-msgstr "Informes"
+msgstr "Reportes"
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html:28
 msgid "For large courses, generating some reports can take several hours. When report generation is complete, a link that includes the date and time of generation appears in the table below. These reports are generated in the background, meaning it is OK to navigate away from this page while your report is generating."
-msgstr "En cursos grandes, la generación de algunos informes puede tardar varias horas. Cuando la generación del informe esté completa, aparecerá en la tabla siguiente un enlace que incluye la fecha y hora de generación. Estos informes se generan en segundo plano, por lo que puedes salir de esta página mientras se genera el informe."
+msgstr "En cursos grandes, la generación de algunos reportes puede tardar varias horas. Cuando la generación del reporte esté completa, aparecerá en la tabla siguiente un enlace que incluye la fecha y hora de generación. Estos reportes se generan en segundo plano, por lo que puedes salir de esta página mientras se genera el reporte."
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html:30
 msgid "Please be patient and do not click these buttons multiple times. Clicking these buttons multiple times will significantly slow the generation process."
@@ -12523,7 +12523,7 @@ msgstr "Haz clic para generar un archivo CSV con todos los resultados de exámen
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html:49
 msgid "Generate Proctored Exam Results Report"
-msgstr "Generar informe de resultados de exámenes supervisados"
+msgstr "Generar reporte de resultados de exámenes supervisados"
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html:84 lms/templates/instructor/instructor_dashboard_2/data_download_2/certificates.html:31
 msgid "Click to list certificates that are issued for this course:"
@@ -12547,15 +12547,15 @@ msgstr "Listar información de perfil de estudiantes inscritos"
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html:100 lms/templates/instructor/instructor_dashboard_2/data_download_2/grading.html:25
 msgid "Click to generate a CSV grade report for all currently enrolled students."
-msgstr "Haz clic para generar un informe CSV de calificaciones de todos los estudiantes actualmente inscritos."
+msgstr "Haz clic para generar un reporte CSV de calificaciones de todos los estudiantes actualmente inscritos."
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html:118 lms/templates/instructor/instructor_dashboard_2/data_download_2.html:48
 msgid "Reports Available for Download"
-msgstr "Informes disponibles para descargar"
+msgstr "Reportes disponibles para descargar"
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html:125
 msgid "The answer distribution report listed below is generated periodically by an automated background process. The report is cumulative, so answers submitted after the process starts are included in a subsequent report. The report is generated several times per day."
-msgstr "El informe de distribución de respuestas que se muestra a continuación se genera periódicamente mediante un proceso automatizado en segundo plano. El informe es acumulativo, por lo que las respuestas enviadas después de que se inicia el proceso se incluyen en un informe posterior. El informe se genera varias veces al día."
+msgstr "El reporte de distribución de respuestas que se muestra a continuación se genera periódicamente mediante un proceso automatizado en segundo plano. El reporte es acumulativo, por lo que las respuestas enviadas después de que se inicia el proceso se incluyen en un reporte posterior. El reporte se genera varias veces al día."
 
 #: lms/templates/instructor/instructor_dashboard_2/edit_coupon_modal.html:7
 msgid "Edit Coupon Code"
@@ -12587,7 +12587,7 @@ msgstr "Actualizar código de cupón"
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:7
 msgid "Individual due date extensions"
-msgstr "Prórrogas individuales de fecha límite"
+msgstr "Extensiones individuales de fecha límite"
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:15 lms/templates/instructor/instructor_dashboard_2/extensions.html:70 lms/templates/instructor/instructor_dashboard_2/extensions.html:93
 #, python-brace-format
@@ -12609,23 +12609,23 @@ msgstr "Cambiar fecha límite para el estudiante"
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:45
 msgid "Viewing granted extensions"
-msgstr "Ver prórrogas concedidas"
+msgstr "Mostrando las extensiones de fecha límite otorgadas"
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:63
 msgid "List all students with due date extensions"
-msgstr "Listar todos los estudiantes con prórrogas de fecha límite"
+msgstr "Listar todos los estudiantes con extensiones de fecha límite"
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:67
 msgid "Specify a student to see all of that student's extensions."
-msgstr "Especifica un estudiante para ver todas sus prórrogas."
+msgstr "Especifica un estudiante para ver todas sus extensiones."
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:74
 msgid "List date extensions for student"
-msgstr "Listar prórrogas de fecha para el estudiante"
+msgstr "Listar extensiones de fecha para el estudiante"
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:86
 msgid "Resetting extensions"
-msgstr "Restablecer prórrogas"
+msgstr "Reiniciar las extensiones de fecha límite"
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:105
 msgid "Reason for reset"
@@ -12753,11 +12753,11 @@ msgstr "Buscar código de inscripción"
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:11 lms/templates/instructor/instructor_dashboard_2/membership.html:101
 msgid "Enter email addresses and/or usernames separated by new lines or commas."
-msgstr "Ingresa direcciones de correo electrónico y/o nombres de usuario separados por líneas nuevas o comas."
+msgstr "Ingresa los correos electrónicos y/o nombres de usuario separados por nuevas lineas o por comas."
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:12
 msgid "You will not get notification for emails that bounce, so please double-check spelling."
-msgstr "No recibirás notificaciones por correos electrónicos rebotados, así que revisa cuidadosamente la ortografía."
+msgstr "No recibirás notificaciones de los correos con rebotes, por lo tanto, debes asegurarse de que los correos estén bien escritos."
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:18
 msgid "Enter the reason why the students are to be manually enrolled or unenrolled."
@@ -12765,7 +12765,7 @@ msgstr "Ingresa el motivo por el cual los estudiantes serán inscritos o desinsc
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:19
 msgid "This cannot be left blank and will be recorded and presented in Enrollment Reports."
-msgstr "Esto no puede quedar en blanco y se registrará y presentará en los informes de inscripción."
+msgstr "Esto no puede quedar en blanco y se registrará y presentará en los reportes de inscripción."
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:20
 msgid "Therefore, please give enough detail to account for this action."
@@ -12790,7 +12790,7 @@ msgstr "Adición por lote de evaluadores beta"
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:102
 #, python-brace-format
 msgid "Note: Users must have an activated {platform_name} account before they can be enrolled as beta testers."
-msgstr "Nota: Los usuarios deben tener una cuenta de {platform_name} activada antes de poder inscribirse como evaluadores beta."
+msgstr "Nota: Los usuarios deben tener una cuenta en {platform_name} activada antes de poder inscribirse como evaluadores beta."
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:114
 msgid "Checking this box has no effect if 'Remove beta testers' is selected."
@@ -12926,3 +12926,189 @@ msgstr "Ejemplo"
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:165
 msgid "Rescore All Problems"
 msgstr "Recalificar todos los problemas"
+
+msgid "In this section, you have the ability to grant extensions on specific subsections to individual students. Please note that the latest date is always taken; you cannot use this tool to make an assignment due earlier for a particular student."
+msgstr "En esta sección, puede otorgar extensiones individuales a estudiantes en subsecciones específicas. Por favor note que siempre se toma la fecha más reciente; no puede usar esta herramienta para configurar la fecha de una asignación más antes para un estudiante específico."
+
+msgid "Choose the graded subsection:"
+msgstr "Elija la subsección calificable:"
+
+msgid "Here you can see what extensions have been granted on particular subsection or for a particular student."
+msgstr "Aquí puede ver que extensiones han sido otorgadas en una subsección o estudiante en particular."
+
+msgid "Choose a graded subsection and click the button to obtain a list of all students who have extensions for the given subsection."
+msgstr "Escoja una subsección calificable. Debe hacer clic en el botón para obtener una lista de estudiantes con extensiones para la subsección dada."
+
+msgid "View gradebook for enrolled learners"
+msgstr "Ver libro de calificaciones para estudiantes inscritos"
+
+msgid "View a specific learner's enrollment status"
+msgstr "Ver el estado de inscripción de un estudiante específico"
+
+msgid "Learner's {platform_name} email address or username *"
+msgstr "Correo electrónico o nombre de usuario del estudiante en {platform_name} *"
+
+msgid "Learner's {platform_name} email address or username"
+msgstr "Correo electrónico o nombre de usuario del estudiante en {platform_name}"
+
+msgid "View Enrollment Status"
+msgstr "Ver estado de inscripción"
+
+msgid "View a specific learner's grades and progress"
+msgstr "Ver las notas y el progreso de un estudiante específico"
+
+msgid "View Progress Page"
+msgstr "Ver página de progreso"
+
+msgid "Adjust a learner's grade for a specific problem"
+msgstr "Ajustar la calificación del estudiante para un problema específico"
+
+msgid "Location of problem in course"
+msgstr "Ubicación del problema en el curso"
+
+msgid "Attempts"
+msgstr "Intentos"
+
+msgid "Allow a learner who has used up all attempts to work on the problem again."
+msgstr "Permitir que un estudiante que ha usado todos sus intentos trabaje en el problema de nuevo."
+
+msgid "Reset Attempts to Zero"
+msgstr "Reiniciar los intentos"
+
+msgid "Rescore"
+msgstr "Calificar de nuevo"
+
+msgid "For the specified problem, rescore the learner's responses. The 'Rescore Only If Score Improves' option updates the learner's score only if it improves in the learner's favor."
+msgstr "Para la pregunta específica, calificar las respuestas del estudiante nuevamente. La opción 'Recalificar solamente si se mejora la nota' actualiza la nota del estudiante solamente si se mejora."
+
+msgid "Rescore Learner's Submission"
+msgstr "Recalificar el envío del estudiante"
+
+msgid "Rescore Only If Score Improves"
+msgstr "Recalificar solamente si se mejora la nota"
+
+msgid "Score Override"
+msgstr "Cambio manual de calificación"
+
+msgid "For the specified problem, override the learner's score."
+msgstr "Para el problema específico, cambiar la calificación del estudiante manualmente."
+
+msgid "New score for problem, out of the total points available for the problem"
+msgstr "Nueva calificación del problema, del número total de puntos disponibles para el problema"
+
+msgid "Score"
+msgstr "Puntaje"
+
+msgid "Override Learner's Score"
+msgstr "Cambiar Calificación de Estudiante Manualmente"
+
+msgid "Problem History"
+msgstr "Historial del problema"
+
+msgid "For the specified problem, permanently and completely delete the learner's answers and scores from the database."
+msgstr "Para el problema específico, borrar las respuestas del estudiante completamente y permanentemente de la base de datos."
+
+msgid "Delete Learner's State"
+msgstr "Borrar estado del estudiante"
+
+msgid "Task Status"
+msgstr "Estado de la tarea"
+
+msgid "Show the status for the tasks that you submitted for this problem."
+msgstr "Mostrar el estado de tareas de recalificación que usted inició para este estudiante y problema."
+
+msgid "Show Task Status"
+msgstr "Mostrar estado de la tarea"
+
+msgid "Adjust all enrolled learners' grades for a specific problem"
+msgstr "Ajustar la calificación de todos los estudiantes inscritos para un problema específica"
+
+msgid "Allows all learners to work on the problem again."
+msgstr "Permite que todos los estudiantes trabajen en el problema de nuevo."
+
+msgid "Rescore submitted responses. The 'Rescore Only If Scores Improve' option updates a learner's score only if it improves in the learner's favor."
+msgstr "Recalificar respuestas enviadas. La opción 'Recalificar solamente si se mejora la nota' actualiza la nota del estudiante solamente si se mejora."
+
+msgid "Rescore All Learners' Submissions"
+msgstr "Recalificar los envíos de todos los estudiantes"
+
+msgid "Rescore Only If Scores Improve"
+msgstr "Recalificar solamente si se mejora la nota"
+
+msgid "The CSV of anonymized student IDs download has been relocated to the Reports section below."
+msgstr "La descarga del CSV de las identificaciones anónimas de los estudiantes ha sido reubicada en la sección de Reportes."
+
+msgid "Click to generate a CSV file that lists learners who are enrolled in the course but have not yet activated their account."
+msgstr "Haz clic para generar un archivo CSV que lista a los estudiantes que están inscritos en el curso pero que aún no han activado su cuenta."
+
+msgid "Download a CSV of learners who have not activated their account"
+msgstr "Descargar un archivo CSV de los estudiantes que no han activado su cuenta"
+
+msgid "Select a problem to generate a CSV file that lists all student answers to the problem. You also select a section or chapter to include results of all problems in that section or chapter."
+msgstr "Seleccione un problema para generar un archivo CSV que contenga una lista de todas las respuestas de los estudiantes al problema. También seleccione una sección o capitulo para incluir los resultados de todos los problemas en esa sección o capitulo."
+
+msgid "The generated report is limited to 5000 responses. If you expect more than 5000 responses, try generating the report on a chapter-by-chapter, or problem-by-problem basis, or contact your site administrator to increase the limit."
+msgstr "El reporte generado es limitado a 5000 respuestas. Si espera más de 5000 respuestas, intente generando el reporte en una base de capítulo por capítulo o problema por problema, o contacte el administrador del sitio para incrementar el límite."
+
+msgid "Note:"
+msgstr "Nota:"
+
+msgid "To keep student data secure, you cannot save or email these links for direct access. Copies of links expire within 5 minutes."
+msgstr "Para mantener los datos del estudiante seguros, no puede guardar o enviar estos enlaces para acceso directo. Copias de los enlaces expiran en 5 minutos."
+
+msgid "Report files are deleted 90 days after generation. If you will need access to old reports, download and store the files, in accordance with your institution's data security policies."
+msgstr "Archivos de reportes son borrados 90 días después de la generación. Si va a necesitar acceso a reportes antiguos, descargue y guarde los archivos, en acuerdo con las políticas de seguridad de datos de su institución."
+
+msgid "To use the email tool, visit the {linl}new experience{link}."
+msgstr "Para usar la herramienta de correo electrónico, visite la {link}nueva experiencia{link}."
+
+msgid "Regenerate Certificates"
+msgstr "Regenerar certificados"
+
+msgid "To regenerate certificates for your course, choose the learners who will receive regenerated certificates and click Regenerate Certificates."
+msgstr "Para regenerar certificados para su curso, seleccione a los estudiantes que recibirán certificados regenerados y haga clic en Regenerar certificados."
+
+msgid "Regenerate for learners who have already received certificates."
+msgstr "Regenerar los certificados de los estudiantes que ya han recibido un certificado."
+
+msgid "Regenerate for learners who have not received certificates."
+msgstr "Regenerar los certificados de los estudiantes que no han recibido un certificado."
+
+msgid "Regenerate for learners with audit passing state."
+msgstr "Regenerar los certificados para estudiantes con estado de aprobación en la ruta gratuita."
+
+msgid "Regenerate for learners with audit not passing state."
+msgstr "Regenerar los certificados para estudiantes en la ruta gratuita sin estado de aprobación."
+
+msgid "Regenerate for learners in an error state. "
+msgstr "Regenerar los certificados para los estudiantes con error."
+
+msgid "Certificate Generation History"
+msgstr "Historial de generación de certificados"
+
+msgid "Task name"
+msgstr "Nombre de tarea"
+
+msgid "SET CERTIFICATE EXCEPTIONS"
+msgstr "CONFIGURAR EXCEPCIONES DE CERTIFICADOS"
+
+msgid "Set exceptions to generate certificates for learners who did not qualify for a certificate but have been given an exception by the course team. After you add learners to the exception list, click Generate Exception Certificates below."
+msgstr "Configurar excepciones para generar certificados para estudiantes que no calificaron para un certificado pero recibieron una excepción por parte del equipo del curso. Después de añadir estudiantes a la lista de excepción, haz clic en Generar certificados de excepción a continuación."
+
+msgid "Invalidate Certificates"
+msgstr "Invalidar certificados"
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
