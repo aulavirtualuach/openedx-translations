@@ -13097,18 +13097,3 @@ msgstr "Configurar excepciones para generar certificados para estudiantes que no
 
 msgid "Invalidate Certificates"
 msgstr "Invalidar certificados"
-
-msgid ""
-msgstr ""
-
-msgid ""
-msgstr ""
-
-msgid ""
-msgstr ""
-
-msgid ""
-msgstr ""
-
-msgid ""
-msgstr ""
