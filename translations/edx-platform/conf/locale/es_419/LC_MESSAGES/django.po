@@ -13100,3 +13100,6 @@ msgstr "Invalidar certificados"
 
 msgid "Starts"
 msgstr "Comienza"
+
+msgid "Starts: {date}"
+msgstr "Comienza: {date}"
