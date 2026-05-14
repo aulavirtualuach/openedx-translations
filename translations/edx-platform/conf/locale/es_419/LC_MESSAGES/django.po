@@ -13103,3 +13103,9 @@ msgstr "Comienza"
 
 msgid "Starts: {date}"
 msgstr "Comienza: {date}"
+
+msgid "View all Courses"
+msgstr "Ver todos los cursos"
+
+msgid "Buy"
+msgstr "Comprar"
